@@ -12,4 +12,4 @@ version: 1.0.0
 date-released: "YYYY-MM-DD"          # <- fill in on release
 license: MIT
 repository-code: "https://github.com/maddy1712/crc-ml-nine-gene-panel"   # <- fill in
-# doi: "10.5281/zenodo.XXXXXXX"      # <- add after Zenodo mints the DOI
+doi: "10.5281/zenodo.23912926"
