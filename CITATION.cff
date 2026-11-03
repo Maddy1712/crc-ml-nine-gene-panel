@@ -9,7 +9,7 @@ authors:
     given-names: Ashutosh
     affiliation: "Motilal Nehru National Institute of Technology, Prayagraj, India"
 version: 1.0.0
-date-released: "YYYY-MM-DD"          # <- fill in on release
+date-released: "2026-11-03"          # <- fill in on release
 license: MIT
 repository-code: "https://github.com/maddy1712/crc-ml-nine-gene-panel"   # <- fill in
 doi: "10.5281/zenodo.23912926"
