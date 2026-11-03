@@ -4,7 +4,7 @@ Code accompanying the manuscript:
 
 > Tiwari M, Mani A. *Machine Learning-Based Identification and Cross-Cohort Validation of a
 > Stability-Selected Nine-Gene Transcriptomic Panel for Colorectal Cancer.* (submitted)
-> Archived release: Zenodo DOI **[add after release]**
+> Archived release: Zenodo DOI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23912926.svg)](https://doi.org/10.5281/zenodo.23912926)
 
 ## What the pipeline does
 
@@ -58,7 +58,7 @@ The run fits DESeq2 dozens of times, so allow substantial time.
   The full session of the reported run is in `docs/sessionInfo_original_run.txt`. Key versions: R 4.3.2 (Windows 11),
   DESeq2 1.42.1, glmnet 5.0, xgboost 3.2.1.1, randomForest 4.7-1.2, e1071 1.7-17, class 7.3-22, pROC 1.19.0.1,
   caret 7.0-1, dplyr 1.1.4, ggplot2 4.0.3.
-- Input data are public (ENA, GDC). Processed matrices and metadata are on Zenodo: **[add link]**.
+- Input data are public (ENA, GDC). 
 
 ## Contact
 
