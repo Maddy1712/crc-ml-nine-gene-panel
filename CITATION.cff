@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article and this repository."
+title: "Code for: Machine Learning-Based Identification and Cross-Cohort Validation of a Stability-Selected Nine-Gene Transcriptomic Panel for Colorectal Cancer"
+authors:
+  - family-names: Tiwari
+    given-names: Madhuri
+    affiliation: "Motilal Nehru National Institute of Technology, Prayagraj, India"
+  - family-names: Mani
+    given-names: Ashutosh
+    affiliation: "Motilal Nehru National Institute of Technology, Prayagraj, India"
+version: 1.0.0
+date-released: "YYYY-MM-DD"          # <- fill in on release
+license: MIT
+repository-code: "https://github.com/maddy1712/crc-ml-nine-gene-panel"   # <- fill in
+# doi: "10.5281/zenodo.XXXXXXX"      # <- add after Zenodo mints the DOI
